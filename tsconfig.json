@@ -27,19 +27,19 @@
         "./*"
       ],
       "@/components/*": [
-        "components/*"
+        "./components/*"
       ],
       "@/context/*": [
-        "context/*"
+        "./context/*"
       ],
       "@/shared/*": [
-        "shared/*"
+        "./shared/*"
       ],
       "@/services/*": [
-        "services/*"
+        "./services/*"
       ],
       "@/hooks/*": [
-        "hooks/*"
+        "./hooks/*"
       ]
     }
   },
