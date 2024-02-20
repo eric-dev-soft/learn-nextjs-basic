@@ -3,7 +3,7 @@
     "bracketSameLine": false,
     "bracketSpacing": true,
     "semi": false,
-    "singleQuote": true,
+    "singleQuote": false,
     "jsxSingleQuote": false,
     "quoteProps": "as-needed",
     "trailingComma": "all",
@@ -12,9 +12,10 @@
     "vueIndentScriptAndStyle": false,
     "proseWrap": "preserve",
     "insertPragma": false,
-    "printWidth": 100,
+    "printWidth": 80,
     "requirePragma": false,
-    "tabWidth": 4,
+    "tabWidth": 2,
     "useTabs": false,
-    "embeddedLanguageFormatting": "auto"
+    "embeddedLanguageFormatting": "auto",
+    "prettier.eslintIntegration": true
 }
